@@ -1,6 +1,6 @@
 <p id="learning-with-label-noise"></p>
 
-# Online Learning & Online Semi-Supervised learning
+# Online Learning & Online Learning
 
     A curated list of resources for Online Semi-Supervised learning 
 
