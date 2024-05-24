@@ -186,26 +186,27 @@
 <p id="Survey"></p>
 
 ## Survey
-* 2024 - Introduction: From Batch to Online Machine Learning -- [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-7007-0_1)
-* 2023 - A survey on online active learning -- [Paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.08893.pdf)
-* 2021 - Neurocomputing -- Online learning: A comprehensive survey -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231221006706?casa_token=jFlI2xRefrQAAAAA:Ox13vEfB6aZnyX8NPYJElLxFcMClExmIuf3rWKHSYD_LSJXqRtbIqu8x6bSYJOfW1KJ3681R4Q)
-* 2020 - Journal of Software -- Survey of Online Learning Algorithms for Streaming Data Classification -- [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=LGlPPz-4LgEPt6gh5LKzEUdi95nrP0aXKxU4FJLjHGuEcUcIA7u9b1UI-oraOSbPlTMKfBmJ3d_Ib4SSuva_OrMdegKYyfylOrhCeCKRkEIw9u0QP8baRJYDsXhmT8dYIRoPEMMY-TktVyxQ0CxD_Q==&uniplatform=NZKPT&language=CHS)
-* 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. -- [[Paper]](https://arxiv.org/abs/2007.08199) [[Project Page]](https://github.com/songhwanjun/Awesome-Noisy-Labels)
-* 2019 - Machine learning for streaming data: state of the art, challenges, and opportunities -- [[Paper]](https://www.kdd.org/exploration_files/3._CR_7._Machine_learning_for_streaming_data_state_of_the_art-Final.pdf)
-* 2018 - Online Learning: A Comprehensive Survey -- [[Paper]](https://arxiv.org/abs/1802.02871)
-* 2018 - Online Machine Learning in Big Data Streams -- [[Paper]](https://arxiv.org/abs/1802.05872v1)
-* 2017 - Journal of Machine Learning Research -- A survey of algorithms and analysis for adaptive online learning -- [[Paper]](https://www.jmlr.org/papers/volume18/14-428/14-428.pdf)
-* 2016 - Incremental learning algorithms and applications -- [[Paper]](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)
-* 2013 - Batch-Incremental versus Instance-Incremental Learning in Dynamic and Evolving Data -- [[Paper]](http://albertbifet.com/wp-content/uploads/2013/10/IDA2012.pdf)
-* 2012 - Foundations and Trends® in Machine Learning -- Online learning and online convex optimization [[Paper]](https://www.nowpublishers.com/article/DownloadSummary/MAL-018)
-* 2011 - Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey -- [[Paper]](https://arxiv.org/abs/1507.01030)
-* 1998 - Online Learning and Stochastic Approximations -- [[Paper]](https://leon.bottou.org/publications/pdf/online-1998.pdf)
+* 2024 - Introduction: From Batch to Online Machine Learning -- [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-7007-0_1)    
+* 2023 - A survey on online active learning -- [Paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.08893.pdf)    
+* 2021 - Neurocomputing -- Online learning: A comprehensive survey -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231221006706? 
+ casa_token=jFlI2xRefrQAAAAA:Ox13vEfB6aZnyX8NPYJElLxFcMClExmIuf3rWKHSYD_LSJXqRtbIqu8x6bSYJOfW1KJ3681R4Q)  
+* 2020 - Journal of Software -- Survey of Online Learning Algorithms for Streaming Data Classification -- [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=LGlPPz-4LgEPt6gh5LKzEUdi95nrP0aXKxU4FJLjHGuEcUcIA7u9b1UI-oraOSbPlTMKfBmJ3d_Ib4SSuva_OrMdegKYyfylOrhCeCKRkEIw9u0QP8baRJYDsXhmT8dYIRoPEMMY-TktVyxQ0CxD_Q==&uniplatform=NZKPT&language=CHS)  
+* 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. -- [[Paper]](https://arxiv.org/abs/2007.08199) [[Project Page]](https://github.com/songhwanjun/Awesome-Noisy-Labels)  
+* 2019 - Machine learning for streaming data: state of the art, challenges, and opportunities -- [[Paper]](https://www.kdd.org/exploration_files/3._CR_7._Machine_learning_for_streaming_data_state_of_the_art-Final.pdf)  
+* 2018 - Online Learning: A Comprehensive Survey -- [[Paper]](https://arxiv.org/abs/1802.02871)   
+* 2018 - Online Machine Learning in Big Data Streams -- [[Paper]](https://arxiv.org/abs/1802.05872v1)    
+* 2017 - Journal of Machine Learning Research -- A survey of algorithms and analysis for adaptive online learning -- [[Paper]](https://www.jmlr.org/papers/volume18/14-428/14-428.pdf)  
+* 2016 - Incremental learning algorithms and applications -- [[Paper]](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2016-19.pdf)  
+* 2013 - Batch-Incremental versus Instance-Incremental Learning in Dynamic and Evolving Data -- [[Paper]](http://albertbifet.com/wp-content/uploads/2013/10/IDA2012.pdf)  
+* 2012 - Foundations and Trends® in Machine Learning -- Online learning and online convex optimization [[Paper]](https://www.nowpublishers.com/article/DownloadSummary/MAL-018)  
+* 2011 - Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey -- [[Paper]](https://arxiv.org/abs/1507.01030)  
+* 1998 - Online Learning and Stochastic Approximations -- [[Paper]](https://leon.bottou.org/publications/pdf/online-1998.pdf)  
 
 <p id="Tools"></p>
 ## Tools
 * [MOA](https://moa.cms.waikato.ac.nz/documentation/) -- MOA is an open-source framework software that allows to build and run experiments of machine learning or data mining on evolving data streams. It includes a set of learners and stream generators that can be used from the Graphical User Interface (GUI), the command-line, and the Java API. MOA contains several collections of machine learning algorithms:
-* [River](https://github.com/online-ml/river) -- River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data. River is the result of a merger between creme and scikit-multiflow.
-* [dask](https://ml.dask.org/incremental.html)
+* [River](https://github.com/online-ml/river) -- River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data. River is the result of a merger between creme and scikit-multiflow.  
+* [dask](https://ml.dask.org/incremental.html)  
 * [Jubatus](http://jubat.us/en/index.html)
 * [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library
 * [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines
