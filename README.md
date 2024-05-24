@@ -187,10 +187,10 @@
 
 ## Survey
 * 2024 - Introduction: From Batch to Online Machine Learning -- [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-7007-0_1)    
-* 2023 - A survey on online active learning -- [Paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.08893.pdf)    
+* 2023 - A survey on online active learning -- [[Paper]](https://arxiv.org/ftp/arxiv/papers/2302/2302.08893.pdf)    
 * 2021 - Neurocomputing -- Online learning: A comprehensive survey -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231221006706?casa_token=jFlI2xRefrQAAAAA:Ox13vEfB6aZnyX8NPYJElLxFcMClExmIuf3rWKHSYD_LSJXqRtbIqu8x6bSYJOfW1KJ3681R4Q)  
 * 2020 - Journal of Software -- Survey of Online Learning Algorithms for Streaming Data Classification -- [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=LGlPPz-4LgEPt6gh5LKzEUdi95nrP0aXKxU4FJLjHGuEcUcIA7u9b1UI-oraOSbPlTMKfBmJ3d_Ib4SSuva_OrMdegKYyfylOrhCeCKRkEIw9u0QP8baRJYDsXhmT8dYIRoPEMMY-TktVyxQ0CxD_Q==&uniplatform=NZKPT&language=CHS)  
-* 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. -- [[Paper]](https://arxiv.org/abs/2007.08199) [[Project Page]](https://github.com/songhwanjun/Awesome-Noisy-Labels)  
+* 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. -- [[Paper]](https://arxiv.org/abs/2007.08199) [[Paper]](https://github.com/songhwanjun/Awesome-Noisy-Labels)  
 * 2019 - Machine learning for streaming data: state of the art, challenges, and opportunities -- [[Paper]](https://www.kdd.org/exploration_files/3._CR_7._Machine_learning_for_streaming_data_state_of_the_art-Final.pdf)  
 * 2018 - Online Learning: A Comprehensive Survey -- [[Paper]](https://arxiv.org/abs/1802.02871)   
 * 2018 - Online Machine Learning in Big Data Streams -- [[Paper]](https://arxiv.org/abs/1802.05872v1)    
@@ -203,36 +203,21 @@
 
 <p id="Tools"></p>
 ## Tools
-* [MOA](https://moa.cms.waikato.ac.nz/documentation/) -- MOA is an open-source framework software that allows to build and run experiments of machine learning or data mining on evolving data streams. It includes a set of learners and stream generators that can be used from the Graphical User Interface (GUI), the command-line, and the Java API. MOA contains several collections of machine learning algorithms:
-
-* [River](https://github.com/online-ml/river) -- River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data. River is the result of a merger between creme and scikit-multiflow.  
-
-* [dask](https://ml.dask.org/incremental.html)  
-
-* [Jubatus](http://jubat.us/en/index.html)
-
-* [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library
-
-* [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines
-
-* [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) — A Library for Large Linear Classification
-
-* [LIBOL](https://github.com/LIBOL) — A collection of online linear models trained with first and second order gradient descent methods. Not maintained.
-
-* [scikit-learn](https://scikit-learn.org/stable/) — [Some](https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/computing.html) page.
-
-* [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) — Doesn't do online learning per say, but instead mini-batches the data into fixed intervals of time.
-
-* [SofiaML](https://code.google.com/archive/p/sofia-ml/)
-
-* [StreamDM](https://github.com/huawei-noah/streamDM) — A machine learning library on top of Spark Streaming.
-
-* [Tornado](https://github.com/alipsgh/tornado)
-
-* [VFML](http://www.cs.washington.edu/dm/vfml/)
-
-* [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
-
+* [MOA](https://moa.cms.waikato.ac.nz/documentation/) -- MOA is an open-source framework software that allows to build and run experiments of machine learning or data mining on evolving data streams. It includes a set of learners and stream generators that can be used from the Graphical User Interface (GUI), the command-line, and the Java API. MOA contains several collections of machine learning algorithms  
+* [River](https://github.com/online-ml/river) -- River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data. River is the result of a merger between creme and scikit-multiflow.    
+* [dask](https://ml.dask.org/incremental.html)    
+* [Jubatus](http://jubat.us/en/index.html)   
+* [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library  
+* [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines  
+* [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) — A Library for Large Linear Classification  
+* [LIBOL](https://github.com/LIBOL) — A collection of online linear models trained with first and second order gradient descent methods. Not maintained.  
+* [scikit-learn](https://scikit-learn.org/stable/) — [Some](https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/computing.html) page.  
+* [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) — Doesn't do online learning per say, but instead mini-batches the data into fixed intervals of time.  
+* [SofiaML](https://code.google.com/archive/p/sofia-ml/)   
+* [StreamDM](https://github.com/huawei-noah/streamDM) — A machine learning library on top of Spark Streaming.  
+* [Tornado](https://github.com/alipsgh/tornado)  
+* [VFML](http://www.cs.washington.edu/dm/vfml/)  
+* [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)  
 
 
  <p id="Acknowledgements"></p>
