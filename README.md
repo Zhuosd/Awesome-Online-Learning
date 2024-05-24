@@ -20,7 +20,6 @@
 ## Papers(Conference)
 
 ### 2024
-* 2021-CVPR -- Ordisco: Effective and efficient usage of incremental unlabeled data for semi-supervised continual learning[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html)[[Code]]()
 
 ### 2023
 
@@ -29,6 +28,8 @@
 
 
 ### 2021
+* 2021 - CVPR -- Ordisco: Effective and efficient usage of incremental unlabeled data for semi-supervised continual learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html)[[Code]]()
+
 
 <p id="Papers(Journal)"></p>
 
