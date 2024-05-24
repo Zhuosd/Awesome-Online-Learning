@@ -146,7 +146,7 @@
 <p id="Tools"></p>
 
 ## Tools
-* [MOA](https://moa.cms.waikato.ac.nz/documentation/)
+* [MOA](https://moa.cms.waikato.ac.nz/documentation/) -- MOA is an open-source framework software that allows to build and run experiments of machine learning or data mining on evolving data streams. It includes a set of learners and stream generators that can be used from the Graphical User Interface (GUI), the command-line, and the Java API. MOA contains several collections of machine learning algorithms:
 * [River](https://github.com/online-ml/river) -- River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data. River is the result of a merger between creme and scikit-multiflow.
 * [dask](https://ml.dask.org/incremental.html)
 * [Jubatus](http://jubat.us/en/index.html)
