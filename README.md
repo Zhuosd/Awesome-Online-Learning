@@ -7,16 +7,16 @@
 
 
 - [Online Learning]
-  - [Papers(Conference)](#Papers(Conference)--Code)
-  - [Papers(journal)](#Papers(journal)--Code)
+  - [Papers(Conference)](#Papers(Conference))
+  - [Papers(journal)](#Papers(Journal))
   - [Survey](#Survey)
-  - [Tools](#github)
-  - [Others](#others)
-  - [Acknowledgements](#acknowledgements)
+  - [Tools](#Tools)
+  - [Acknowledgements](#Acknowledgements)
 
 ---
 
 <p id="Papers(Conference)"></p>
+
 ## Papers(Conference)
 
 ### 2024
@@ -30,8 +30,9 @@
 
 ### 2021
 
+<p id="Papers(Journal)"></p>
 
-## Papers(journal)
+## Papers(Journal)
 
 ### 2023
 
@@ -54,10 +55,14 @@
 * 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. [[Paper]](https://arxiv.org/abs/2007.08199) [[Project Page]](https://github.com/songhwanjun/Awesome-Noisy-Labels)
 
 
+<p id="Tools"></p>
+
 ## Tools
 
 * [River](https://github.com/online-ml/river) -- River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data. River is the result of a merger between creme and scikit-multiflow.
 
+
+ <p id="Acknowledgements"></p>
  
 ## Acknowledgements
 
