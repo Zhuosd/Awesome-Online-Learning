@@ -69,6 +69,37 @@
 * 2021 -  --  -- [[Paper]]()
 * 2021 -  --  -- [[Paper]]()
 
+### 2020
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+
+### Other
+* 2019 -  --  -- [[Paper]]()
+* 2019 -  --  -- [[Paper]]()
+* 2019 -  --  -- [[Paper]]()
+* 2019 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
+* 2017 -  --  -- [[Paper]]()
+* 2017 -  --  -- [[Paper]]()
+* 2017 -  --  -- [[Paper]]()
+* 2017 -  --  -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
+
+
 <p id="Papers(Journal)"></p>
 
 ## Papers(Journal)
@@ -133,6 +164,25 @@
 * 2020 -  --  -- [[Paper]]()
 * 2020 -  --  -- [[Paper]]()
 
+### Other
+* 2019 -  --  -- [[Paper]]()
+* 2019 -  --  -- [[Paper]]()
+* 2019 -  --  -- [[Paper]]()
+* 2019 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
+* 2017 -  --  -- [[Paper]]()
+* 2017 -  --  -- [[Paper]]()
+* 2017 -  --  -- [[Paper]]()
+* 2017 -  --  -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
+
+
 <p id="Survey"></p>
 
 ## Survey
@@ -142,9 +192,9 @@
 * 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. [[Paper]](https://arxiv.org/abs/2007.08199) [[Project Page]](https://github.com/songhwanjun/Awesome-Noisy-Labels)
 * 2017 - Journal of Machine Learning Research -- A survey of algorithms and analysis for adaptive online learning [[Paper]](https://www.jmlr.org/papers/volume18/14-428/14-428.pdf)
 * 2012 - Foundations and Trends® in Machine Learning -- Online learning and online convex optimization [[Paper]](https://www.nowpublishers.com/article/DownloadSummary/MAL-018)
-* 
-<p id="Tools"></p>
 
+
+<p id="Tools"></p>
 ## Tools
 * [MOA](https://moa.cms.waikato.ac.nz/documentation/) -- MOA is an open-source framework software that allows to build and run experiments of machine learning or data mining on evolving data streams. It includes a set of learners and stream generators that can be used from the Graphical User Interface (GUI), the command-line, and the Java API. MOA contains several collections of machine learning algorithms:
 * [River](https://github.com/online-ml/river) -- River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data. River is the result of a merger between creme and scikit-multiflow.
@@ -165,7 +215,6 @@
 
 
  <p id="Acknowledgements"></p>
- 
 ## Acknowledgements
 
 Some of the above contents are borrowed from 
