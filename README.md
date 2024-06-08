@@ -97,7 +97,6 @@
 * 2023 - ICML -- Fast Online Node Labeling for Very Large Graphs -- [[Paper]](https://proceedings.mlr.press/v202/zhou23k/zhou23k.pdf)
 
 
-
 ### 2022
 * 2022 -  --  -- [[Paper]]()
 * 2022 -  --  -- [[Paper]]()
