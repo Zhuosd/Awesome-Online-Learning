@@ -53,7 +53,9 @@
 * 2023 -  --  -- [[Paper]]()
 
 ### 2023
-* 2023 - Neurips -- Universal Online Learning with Gradient Variations:A Multi-layer Online Ensemble Approach -- [[Paper]](https://openreview.net/pdf?id=AA1xrgAP5z)
+* 2023 - AAAI -- Online random feature forests for learning in varying feature spaces -- [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/25581/25353)
+* 2023 - AAAI -- Online semi-supervised learning with mix-typed streaming features -- [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25596/25368)
+* 2023 - Neurips -- Universal Online Learning with Gradient Variations: A Multi-layer Online Ensemble Approach -- [[Paper]](https://openreview.net/pdf?id=AA1xrgAP5z)
 * 2023 - Neurips -- Optimistic Natural Policy Gradient: a Simple Efficient Policy Optimization Framework for Online RL -- [[Paper]](https://openreview.net/pdf?id=zaQ7wV9NOg)
 * 2023 - Neurips -- Online PCA in Converging Self-consistent Field Equations -- [[Paper]](https://openreview.net/pdf?id=vq11gurmUY)
 * 2023 - ICML -- Robust and Scalable Bayesian Online Changepoint Detection -- [[Paper]](https://proceedings.mlr.press/v202/altamirano23a/altamirano23a.pdf)
@@ -104,6 +106,14 @@
 
 ### 2021
 * 2021 - CVPR -- Ordisco: Effective and efficient usage of incremental unlabeled data for semi-supervised continual learning  -- [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html)[[Code]]()
+* 2021 - ICML -- Efficient Online Learning for Dynamic k-Clustering -- [[Paper]](https://proceedings.mlr.press/v139/fotakis21a.html)
+* 2021 -  --  -- [[Paper]]()
+* 2021 -  --  -- [[Paper]]()
+* 2021 -  --  -- [[Paper]]()
+* 2021 -  --  -- [[Paper]]()
+* 2021 -  --  -- [[Paper]]()
+* 2021 -  --  -- [[Paper]]()
+* 2021 -  --  -- [[Paper]]()
 * 2021 -  --  -- [[Paper]]()
 * 2021 -  --  -- [[Paper]]()
 * 2021 -  --  -- [[Paper]]()
@@ -114,8 +124,10 @@
 * 2021 -  --  -- [[Paper]]()
 
 ### 2020
-* 2020 -  --  -- [[Paper]]()
-* 2020 -  --  -- [[Paper]]()
+* 2020 - ICML -- Online Learning with Imperfect Hints -- [[Paper]](https://proceedings.mlr.press/v119/bhaskara20a.html)
+* 2020 - ICML -- Faster Projection-free Online Learning -- [[Paper]](https://proceedings.mlr.press/v125/hazan20a.html)
+* 2020 - ICML -- Online Learning with Vector Costs and Bandits with Knapsacks -- [[Paper]](https://proceedings.mlr.press/v125/kesselheim20a.html)
+* 2020 - ICML -- MetaGrad: Adaptation using Multiple Learning Rates in Online Learning -- [[Paper]](https://www.jmlr.org/papers/v22/20-1444.html)
 * 2020 -  --  -- [[Paper]]()
 * 2020 -  --  -- [[Paper]]()
 * 2020 -  --  -- [[Paper]]()
@@ -178,10 +190,9 @@
 
 
 ### 2023
-* 2023 - AAAI -- Online random feature forests for learning in varying feature spaces -- [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/25581/25353)
-* 2023 - AAAI -- Online semi-supervised learning with mix-typed streaming features -- [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25596/25368)
-* 2023 -  --  -- [[Paper]]()
-* 2023 -  --  -- [[Paper]]()
+
+* 2023 - Applied Soft Computing -- An online learning algorithm for a neuro-fuzzy classifier with mixed-attribute data. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S1568494623001709?casa_token=U43CS5FUlGMAAAAA:2u5YpVhhdpX2cGZRcROzuIb9ivyJrqpRQ-RcfcuftmRAw2cfwJnjRzyClc9QdZyDQwca3jQQ5OM)
+* 2023 - International Journal of Computer Vision -- Trust-Region Adaptive Frequency for Online Continual Learning. -- [[Paper]](https://link.springer.com/article/10.1007/s11263-023-01775-0)
 * 2023 -  --  -- [[Paper]]()
 * 2023 -  --  -- [[Paper]]()
 * 2023 -  --  -- [[Paper]]()
@@ -203,9 +214,9 @@
 
 
 ### 2021
-* 2021 -  --  -- [[Paper]]()
-* 2021 -  --  -- [[Paper]]()
-* 2021 -  --  -- [[Paper]]()
+* 2021 - TCYB -- Online Learning Algorithm for Distributed Convex Optimization With Time-Varying Coupled Constraints and Bandit Feedback -- [[Paper]](https://ieeexplore.ieee.org/abstract/document/9098853)
+* 2021 - Neural Computing and Applications -- Online learning based on adaptive learning rate for a class of recurrent fuzzy neural network -- [[Paper]](https://link.springer.com/article/10.1007/s00521-019-04372-w)
+* 2021 - Applied Soft Computing -- Online ensemble learning algorithm for imbalanced data stream -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S156849462100301X?casa_token=6k-WSiu7KTUAAAAA:boiITOot1h3GiG3pTUDadPKV1AXWuuIp3Hhns_rs73dIjGo8EONZsWrdJCNrVig-AUg_7qPTREA)
 * 2021 -  --  -- [[Paper]]()
 * 2021 -  --  -- [[Paper]]()
 * 2021 -  --  -- [[Paper]]()
@@ -214,8 +225,8 @@
 
 
 ### 2020
-* 2020-Neurocomputing -- Online semi-supervised learning with learning vector quantization[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220303672)[]
-* 2020 -  --  -- [[Paper]]()
+* 2020 - Neurocomputing -- Online semi-supervised learning with learning vector quantization[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220303672)[]
+* 2020 - TNNLS -- Online Learning With Adaptive Rebalancing in Nonstationary Environments -- [[Paper]](https://ieeexplore.ieee.org/abstract/document/9203853)
 * 2020 -  --  -- [[Paper]]()
 * 2020 -  --  -- [[Paper]]()
 * 2020 -  --  -- [[Paper]]()
