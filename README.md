@@ -17,6 +17,29 @@
 <p id="Papers(Conference)"></p>
 
 ## Papers(Conference)
+### 2024
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+
+
 
 ### 2023
 * 2023 - Neurips -- On the minimax regret for online learning with feedback graphs -- [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/908f03779b5b063413fbf0247a46a403-Paper-Conference.pdf)
