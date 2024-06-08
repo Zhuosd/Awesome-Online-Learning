@@ -154,9 +154,27 @@
 * 2024 - Appl. Soft Comput. -- Online semi-supervised active learning ensemble classification for evolving imbalanced data streams -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S1568494624002266?casa_token=33c3uRUUIdYAAAAA:AsQan4sKJBu3kf-wwv0bRbx7J7ZUuz-mNnJ2coSvO44JRNijHZi9KevV7VLCKgyavmaBbqpJJw)
 * 2024 - IEEE TKDE -- Online Learning from Evolving Feature Spaces with Deep Variational Models -- [[Paper]](https://ieeexplore.ieee.org/document/10308962)
 * 2024 - CAAI Transactions on Intelligence Technology -- OSFS-Vague: Online streaming feature selection algorithm based on vague set -- [[Paper]]()
+* 2024 - Information Fusion -- Adaptive online continual multi-view learning. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253523003366?casa_token=K8aOqlfB3qwAAAAA:ASkO14NUm7otWR2Noj_S-YdRQaG25xBxdhZpexTFL_2iwSbuIVXRgQVGiDLNOl0bbidc1mfV2yM)
+* 2024 - Journal of Complexity -- Online regularized learning algorithm for functional data. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0885064X24000025?casa_token=uz82vZx0x_UAAAAA:aM2sUA9h031tJLrgrT2YTq3WXEmEA4qjLQxXY28HoSALPoeyoBahniCZm63NitorQ8APfz-EvSo)
+* 2024 - Journal of Real-Time Image Processing -- Online continual streaming learning for embedded space applications. -- [[Paper]](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s11554-024-01438-4&casa_token=WsiP1VQ0kucAAAAA:GhFJQuDbdwpYQJIC71SCnCx4WmRWRAwzw0nDYZqZfNhdWL5lNROW-donPcmxTWAMPJZgJqeKSzMYX0E9fg)
+* 2024 - Knowledge and Information Systems -- Online active learning method for multi-class imbalanced data stream. -- [[Paper]](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10115-023-02027-w&casa_token=U-rUpvomEPwAAAAA:s9XLxuwCTcLlWrFR6Urajwe6FKMs4YnABwc3nz2mA7caYDpzoFku0MzfAY8H3PgFeYijrQbfBFcgZpZuwQ)
+* 2024 - Pattern Recognition -- Adaptive instance similarity embedding for online continual learning. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323009354?casa_token=Tojk7F9L_1YAAAAA:xehsOOcncdLrYywbCngH1BnIe1Mpc889e1cRWFiOrWpN254QMwTTpYSs3PPBGHWf7Zi0_U60-lE)
+* 2024 - Statistical Analysis and Data Mining -- Online learning for streaming data classification in nonstationary environments. -- [[Paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sam.11669?casa_token=0o0zvdtnTbIAAAAA:d0ak9HwWb3HOrrFs_yNh3P6_q5rq4eET1K4wiV67DQZZOc77G7Xh_wsEr2_40FXlRCKcPgrT4V5FqD_k)
+* 2024 - TIFS -- Online Self-Supervised Deep Learning for Intrusion Detection Systems. -- [[Paper]](https://drive.google.com/file/d/1TKspnxsR4C7dOQakn7I4_COe70vG72L3/view)
+* 2024 - International Conference on Intelligent Information Processing -- Online Learning in Varying Feature Spaces with Informative Variation. -- [[Paper]](https://openreview.net/pdf?id=ZiYdjVDgYY)
+* 2024 - Applied Soft Computing -- An online learning algorithm for a neuro-fuzzy classifier with mixed-attribute data. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S1568494623001709?casa_token=OC1HxSZ2JrcAAAAA:h5rb_mwghb5mkYeIdfGiExTLRCjgT9W6Jv-_sJcmTW6-fyzZuWvv-xpsu2eV-unBnKoUuOCeQ8Q)
+* 2024 - Computers in Biology and Medicine -- Online semi-supervised learning for motor imagery EEG classification. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010482523008703?casa_token=eQ4jSqKdn3UAAAAA:n-kBbEAsq-GR9NoNuFIUhUlQ8sLu2PMfeJ7jrKp3oJ1tb4nHIj6WWqzWEqKh3AqFnNyJWQVERQo)
+* 2024 - Neurocomputing -- Online continual learning through unsupervised mutual information maximization. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231224001930)
 * 2024 -  --  -- [[Paper]]()
 * 2024 -  --  -- [[Paper]]()
 * 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+* 2024 -  --  -- [[Paper]]()
+
+
+
 
 
 ### 2023
