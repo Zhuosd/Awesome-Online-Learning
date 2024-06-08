@@ -324,8 +324,10 @@
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)  
 
 
- <p id="Acknowledgements"></p>
-## Acknowledgements
+<p id="Acknowledgements"></p>
 
-Some of the above contents are borrowed from 
+## Acknowledgements
+I would like to thank all the authors whose papers are included in this repository. Your invaluable contributions have significantly advanced our field.
+
+Please cite this repository if you find it useful in your work.
 
