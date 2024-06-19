@@ -255,8 +255,8 @@
 
 ### 2021
 * 2021 - Neurips --  Long Short-Term Transformer for Online Action Detection -- [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/08b255a5d42b89b0585260b6f2360bdd-Paper.pdf)
-* 2021 - Neurips -- On the minimax regret for online learning with feedback graphs -- [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/908f03779b5b063413fbf0247a46a403-Paper-Conference.pdf)
-* 2023 - Neurips -- On the minimax regret for online learning with feedback graphs -- [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/908f03779b5b063413fbf0247a46a403-Paper-Conference.pdf)
+* 2021 - Neurips -- Online Multi-Armed Bandits with Adaptive Inference -- [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/0ec04cb3912c4f08874dd03716f80df1-Paper.pdf)
+* 2021 - Neurips -- Online Knapsack with Frequency Predictions -- [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/161c5c5ad51fcc884157890511b3c8b0-Paper.pdf)
 * 2023 - Neurips -- On the minimax regret for online learning with feedback graphs -- [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/908f03779b5b063413fbf0247a46a403-Paper-Conference.pdf)
 * 2023 - Neurips -- On the minimax regret for online learning with feedback graphs -- [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/908f03779b5b063413fbf0247a46a403-Paper-Conference.pdf)
 * 2023 - Neurips -- On the minimax regret for online learning with feedback graphs -- [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/908f03779b5b063413fbf0247a46a403-Paper-Conference.pdf)
