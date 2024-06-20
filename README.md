@@ -166,7 +166,7 @@
 * 2023 - CVPR -- MACARONS: Mapping and Coverage Anticipation With RGB Online Self-Supervision -- [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Guedon_MACARONS_Mapping_and_Coverage_Anticipation_With_RGB_Online_Self-Supervision_CVPR_2023_paper.pdf)
 * 2023 - CVPR -- PCR: Proxy-Based Contrastive Replay for Online Class-Incremental Continual Learning -- [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_PCR_Proxy-Based_Contrastive_Replay_for_Online_Class-Incremental_Continual_Learning_CVPR_2023_paper.pdf)
 * 2023 - CVPR -- CrOC: Cross-View Online Clustering for Dense Visual Representation Learning -- [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Stegmuller_CrOC_Cross-View_Online_Clustering_for_Dense_Visual_Representation_Learning_CVPR_2023_paper.pdf)
-* 2023 -  --  -- [[Paper]]()
+* 2023 - IJCAI -- HireVAE: An Online and Adaptive Factor Model Based on Hierarchical and Regime-Switch VAE -- [[Paper]]()
 * 2023 -  --  -- [[Paper]]()
 * 2023 -  --  -- [[Paper]]()
 * 2023 -  --  -- [[Paper]]()
