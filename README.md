@@ -102,7 +102,7 @@
 * 2023 - ICML -- Efficient Online Reinforcement Learning with Offline Data -- [[Paper]](https://proceedings.mlr.press/v202/ball23a/ball23a.pdf)
 * 2023 - ICML -- Mirror Sinkhorn: Fast Online Optimization on Transport Polytopes -- [[Paper]](https://proceedings.mlr.press/v202/ballu23a/ballu23a.pdf)
 * 2023 - ICML -- Optimal Rates and Efficient Algorithms for Online Bayesian Persuasion -- [[Paper]](https://proceedings.mlr.press/v202/bernasconi23a/bernasconi23a.pdf)
-* 2023 - ICML -- Bandit Online Linear Optimization with Hints and Queries -- [[Paper]](https://proceedings.mlr.press/v202/bhaskara23a/bhaskara23a.pdf)
+* 2023 - ICML -- Bandit Online Linear Optimization with Hints and Queries. -- [[Paper]](https://proceedings.mlr.press/v202/bhaskara23a/bhaskara23a.pdf)
 * 2023 - ICML -- Improved Online Conformal Prediction via Strongly Adaptive Online Learning -- [[Paper]](https://proceedings.mlr.press/v202/bhatnagar23a/bhatnagar23a.pdf)
 * 2023 - ICML -- Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning -- [[Paper]](https://proceedings.mlr.press/v202/carta23a/carta23a.pdf)
 * 2023 - ICML -- Optimistic Online Mirror Descent for Bridging Stochastic and Adversarial Online Convex Optimization -- [[Paper]](https://proceedings.mlr.press/v202/chen23aa/chen23aa.pdf)
