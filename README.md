@@ -839,7 +839,7 @@
 * 2024 - Applied Soft Computing -- An online learning algorithm for a neuro-fuzzy classifier with mixed-attribute data. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S1568494623001709?casa_token=OC1HxSZ2JrcAAAAA:h5rb_mwghb5mkYeIdfGiExTLRCjgT9W6Jv-_sJcmTW6-fyzZuWvv-xpsu2eV-unBnKoUuOCeQ8Q)
 * 2024 - Computers in Biology and Medicine -- Online semi-supervised learning for motor imagery EEG classification. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010482523008703?casa_token=eQ4jSqKdn3UAAAAA:n-kBbEAsq-GR9NoNuFIUhUlQ8sLu2PMfeJ7jrKp3oJ1tb4nHIj6WWqzWEqKh3AqFnNyJWQVERQo)
 * 2024 - Neurocomputing -- Online continual learning through unsupervised mutual information maximization. -- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231224001930)
-* 2024 -  --  -- [[Paper]]()
+* 2024 - TNNLS -- An End-to-End Deep Graph Clustering via Online Mutual Learning -- [[Paper]]()
 * 2024 -  --  -- [[Paper]]()
 * 2024 -  --  -- [[Paper]]()
 * 2024 -  --  -- [[Paper]]()
@@ -867,6 +867,8 @@
 * 2023 - TNNLS -- Open-Ended Online Learning for Autonomous Visual Perception. -- [[Paper]]()
 * 2023 - TNNLS -- Online Learning With Uncertain Feedback Graphs -- [[Paper]]()
 * 2023 - TNNLS -- SNN: An Online Semisupervised Neural Network for Nonstationary Data Streams -- [[Paper]]()
+* 2023 - TNNLS -- Distributed online learning algorithm for noncooperative games over unbalanced digraphs -- [[Paper]](https://static.aminer.cn/upload/pdf/1305/699/365/64af72243fda6d7f0643a13d_0.pdf)
+* 2023 - TNNLS -- Online Orthogonal Dictionary Learning Based on Frank–Wolfe Method -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/BA/9A/47/BA9A47B29D2C6990A63DD83EA7B53D18.pdf)
 * 2023 -  --  -- [[Paper]]()
 * 2023 -  --  -- [[Paper]]()
 
@@ -879,14 +881,13 @@
 * 2022 - TNNLS -- Online Spatio-Temporal Learning in Deep Neural Networks -- [[Paper]](https://www.aminer.cn/download_pdf?link=https://static.aminer.cn/storage/pdf/arxiv/20/2007/2007.12723.pdf)
 * 2022 - TNNLS -- An Online Active Broad Learning Approach for Real-Time Safety Assessment of Dynamic Systems in Nonstationary Environments. -- [[Paper]]()
 * 2022 - TNNLS -- Online reinforcement learning control by direct heuristic dynamic programming: From time-driven to event-driven -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/E4/B1/44/E4B1449E83E748EAA2D9D66E85CED687.pdf)
-* 2022 -  --  -- [[Paper]]()
-* 2022 -  --  -- [[Paper]]()
-* 2022 -  --  -- [[Paper]]()
 * 2022 - IR -- Reinforcement online learning to rank with unbiased reward shaping -- [[Paper]](https://link.springer.com/content/pdf/10.1007/s10791-022-09413-y.pdf)
 * 2022 - TON -- Online Learning for Rate-Adaptive Task Offloading Under Latency Constraints in Serverless Edge Computing -- [[Paper]]()
 * 2022 - ICRA -- Self-Supervised Online Learning for Safety-Critical Control using Stereo Vision -- [[Paper]](https://www.aminer.cn/download_pdf?link=https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/3A/EF/8F/3AEF8FB294F225A1423A456203CC23E3.pdf)
 * 2022 - AAAI -- Non-parametric Online Learning from Human Feedback for Neural Machine Translation. -- [[Paper]](https://static.aminer.cn/storage/pdf/arxiv/21/2109/2109.11136.pdf)
-
+* 2022 -  --  -- [[Paper]]()
+* 2022 -  --  -- [[Paper]]()
+* 2022 -  --  -- [[Paper]]()
 
 
 ### 2021
@@ -902,6 +903,9 @@
 * 2021 - TNNLS -- Online learning with adaptive rebalancing in nonstationary environments -- [[Paper]](https://static.aminer.cn/storage/pdf/arxiv/20/2009/2009.11942.pdf)
 * 2021 - TNNLS -- Multimodel feature reinforcement framework using Moore–Penrose inverse for big data analysis -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/30/0C/5B/300C5BDA7DC52AB200AE92D15AE40E94.pdf)
 * 2021 - TNNLS -- Online kernel learning with adaptive bandwidth by optimal control approach -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/BB/BE/F2/BBBEF2FBBE59D5603BE34479FE5C9BD3.pdf)
+* 2021 - TNNLS -- Continuous model adaptation using online meta-learning for smart grid application -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/C7/48/B8/C748B81EC3464A0DCB6EDA085CC43EFD.pdf)
+* 2021 -  --  -- [[Paper]]()
+* 2021 -  --  -- [[Paper]]()
 * 2021 -  --  -- [[Paper]]()
 * 2021 -  --  -- [[Paper]]()
 
@@ -925,6 +929,9 @@
 * 2020 - TNNLS -- Online topology learning by a gaussian membership-based self-organizing incremental neural network -- [[Paper]]()
 * 2020 - TNNLS -- Reinforcement learning-based optimal stabilization for unknown nonlinear systems subject to inputs with uncertain constraints -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/3E/28/00/3E28003898F2559520D1B785472FF7DC.pdf)
 * 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
+* 2020 -  --  -- [[Paper]]()
 
 ### Other
 * 2019 - Neural Computing and Applications -- Online learning based on adaptive learning rate for a class of recurrent fuzzy neural network -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/7C/99/78/7C9978D6EE9A8B651A61282378C12F9C.pdf)
@@ -935,6 +942,8 @@
 * 2019 - ACML -- Instance-Based Online Learning Of Deterministic Relational Action Models -- [[Paper]](https://static.aminer.cn/upload/pdf/program/5cede0eeda562983788cc7e8_0.pdf)
 * 2019 - EAAI -- An active and incremental learning framework for the online prediction of link quality in robot networks -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/48/3C/10/483C1085C3E99E3F06F1611D30F1E092.pdf)
 * 2019 - TNNLS -- Online active learning ensemble framework for drifted data streams -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/D4/9D/4A/D49D4A9EE98B0E77AE03226F66347F42.pdf)
+* 2019 - TNNLS -- Active learning from imbalanced data: A solution of online weighted extreme learning machine -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/ED/B6/D5/EDB6D522DE500A3C08C4BDA0C7C6ECBA.pdf)
+* 2019 -  --  -- [[Paper]]()
 * 2019 -  --  -- [[Paper]]()
 * 2018 - CoRR -- The many faces of exponential weights in online learning -- [[Paper]](https://static.aminer.cn/upload/pdf/program/5c8d2dba4895d9cbc642d62a_0.pdf)
 * 2018 - J NONPARAMETR STAT -- A Novel Framework for Online Supervised Learning with Feature Selection -- [[Paper]](https://www.aminer.cn/download_pdf?link=https://static.aminer.cn/storage/pdf/arxiv/18/1803/1803.11521.pdf)
@@ -945,6 +954,9 @@
 * 2018 - TNNLS -- Online Learning Algorithm Based on Adaptive Control Theory -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/AE/18/87/AE1887C3EDE259EF55892C4C3A99DD1F.pdf)
 * 2018 - TNNLS -- Online supervised learning for hardware-based multilayer spiking neural networks through the modulation of weight-dependent spike-timing-dependent plasticity -- [[Paper]]() 
 * 2018 - TNNLS -- Online feature transformation learning for cross-domain object category recognition -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/5C/C7/6C/5CC76CABF8C944313914F29A9CF768A5.pdf)
+* 2018 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
+* 2018 -  --  -- [[Paper]]()
 * 2018 -  --  -- [[Paper]]()
 * 2018 - TKDE -- Differentially private distributed online learning -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/EE/1E/63/EE1E632047E76FE6E1527ECC6933F48C.pdf)
 * 2017 - TON -- An online learning approach to improving the quality of crowd-sourcing -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/3F/AB/A4/3FABA407E2683E8EC983017DF741526C.pdf)
@@ -960,6 +972,8 @@
 * 2016 - TCS -- Scale-Free Online Learning -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/FF/04/05/FF0405891570C233C9BF6FD20C468BE2.pdf)
 * 2016 - Applied Soft Computing Journal -- An online learning approach to eliminate Bus Bunching in real-time -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/32/F8/CB/32F8CBB788D271C679948BD97A938E7B.pdf)
 * 2016 - Artificial Intelligence Review -- A review of adaptive online learning for artificial neural networks -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
+* 2016 -  --  -- [[Paper]]()
 * 2016 -  --  -- [[Paper]]()
 * 2016 -  --  -- [[Paper]]()
 * 2016 - EAAI -- Online learning for optimistic planning -- [[Paper]](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/83/92/EB/8392EB8C6AE0DFD64C1A3CE829103C50.pdf)
