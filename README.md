@@ -10,6 +10,8 @@
   - [Papers(journal)](#Papers(Journal))
   - [Survey](#Survey)
   - [Tools](#Tools)
+  - [Packages](#Packages)
+  - [Evaluation matrics](#Evaluation matrics)
   - [Acknowledgements](#Acknowledgements)
 
 ---
@@ -1125,8 +1127,8 @@
 * [MOA](https://moa.cms.waikato.ac.nz/documentation/) -- MOA is an open-source framework software that allows to build and run experiments of machine learning or data mining on evolving data streams. It includes a set of learners and stream generators that can be used from the Graphical User Interface (GUI), the command-line, and the Java API. MOA contains several collections of machine learning algorithms  
 * [River](https://github.com/online-ml/river) -- River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data. River is the result of a merger between creme and scikit-multiflow.    
 * [Jubatus](http://jubat.us/en/index.html) -- Jubatus is the first open source platform for online distributed machine learning on the data streams of Big Data. Jubatus uses a loose model sharing architecture for efficient training and sharing of machine learning models, by defining three fundamental operations; Update, Mix, and Analyze, in a similar way with the Map and Reduce operations in Hadoop.
-// * [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library  
-// * [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines  
+* [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library  
+* [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines
 * [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) — A Library for Large Linear Classification  
 * [LIBOL](https://github.com/LIBOL) — A collection of online linear models trained with first and second order gradient descent methods. Not maintained.  
 * [Scikit-Learn](https://scikit-learn.org/stable/) — [Some](https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/computing.html) page.  
@@ -1142,6 +1144,13 @@
 ## Packages
 * [dask](https://ml.dask.org/incremental.html)    
 
+
+<p id="Evaluation matrics"></p>
+
+## Evaluation matrics
+* Cumulative Rrror Rate (CRR)
+* Online Classification Accuracy (OCA)
+* Averaged Cumulative Regret (ACR)
 
 <p id="Acknowledgements"></p>
 
