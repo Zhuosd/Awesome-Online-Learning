@@ -1124,19 +1124,23 @@
 
 * [MOA](https://moa.cms.waikato.ac.nz/documentation/) -- MOA is an open-source framework software that allows to build and run experiments of machine learning or data mining on evolving data streams. It includes a set of learners and stream generators that can be used from the Graphical User Interface (GUI), the command-line, and the Java API. MOA contains several collections of machine learning algorithms  
 * [River](https://github.com/online-ml/river) -- River is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data. River is the result of a merger between creme and scikit-multiflow.    
-* [dask](https://ml.dask.org/incremental.html)    
-* [Jubatus](http://jubat.us/en/index.html)   
-* [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library  
-* [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines  
+* [Jubatus](http://jubat.us/en/index.html) -- Jubatus is the first open source platform for online distributed machine learning on the data streams of Big Data. Jubatus uses a loose model sharing architecture for efficient training and sharing of machine learning models, by defining three fundamental operations; Update, Mix, and Analyze, in a similar way with the Map and Reduce operations in Hadoop.
+// * [Flink ML](https://nightlies.apache.org/flink/flink-ml-docs-stable/) - Apache Flink machine learning library  
+// * [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/) — A Library for Field-aware Factorization Machines  
 * [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/) — A Library for Large Linear Classification  
 * [LIBOL](https://github.com/LIBOL) — A collection of online linear models trained with first and second order gradient descent methods. Not maintained.  
-* [scikit-learn](https://scikit-learn.org/stable/) — [Some](https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/computing.html) page.  
+* [Scikit-Learn](https://scikit-learn.org/stable/) — [Some](https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning) of scikit-learn's estimators can handle incremental updates, although this is usually intended for mini-batch learning. See also the ["Computing with scikit-learn"](https://scikit-learn.org/stable/computing.html) page.  
 * [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) — Doesn't do online learning per say, but instead mini-batches the data into fixed intervals of time.  
 * [SofiaML](https://code.google.com/archive/p/sofia-ml/)   
 * [StreamDM](https://github.com/huawei-noah/streamDM) — A machine learning library on top of Spark Streaming.  
 * [Tornado](https://github.com/alipsgh/tornado)  
 * [VFML](http://www.cs.washington.edu/dm/vfml/)  
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)  
+
+<p id="Packages"></p>
+
+## Packages
+* [dask](https://ml.dask.org/incremental.html)    
 
 
 <p id="Acknowledgements"></p>
